@@ -1,0 +1,11 @@
+{
+    "updateUrl":"http://js.infonetwork.cn/jinshan.apk",
+    "domainUrl":"http://mobile.rong-e.com.cn",
+    "versions":
+    [
+        {
+            "version":1000,
+            "status":"release"
+        }
+    ]
+}
