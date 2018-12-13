@@ -1,0 +1,11 @@
+{
+    "updateUrl":"https://download.weilaiyule.top/jinshan/install.html",
+    "domainUrl":"http://mobile.rong-e.com.cn",
+    "versions":
+    [
+        {
+            "version":1000,
+            "status":"release"
+        }
+    ]
+}
